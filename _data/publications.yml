@@ -111,7 +111,7 @@ main:
 
   - title: Asynchronous Neighbor Discovery with Unreliable Link in Wireless Mobile Networks
     authors: Wei Li, Jianhui Zhang, Feilong Jiang, <strong>Zhi Li</strong>, Chong Xu.
-    conference_short: Journal
+    conference_short: PPNA
     conference: "<em>Peer-to-Peer Networking and Applications</em>, 12(3): 635-646, 2018."
     pdf: https://link.springer.com/article/10.1007%2Fs12083-018-0672-y
     video: 
@@ -195,7 +195,7 @@ main:
 
   - title: Cooperative Scheduling for Adaptive Duty Cycling in Asynchronous Sensor Networks
     authors: Jianhui Zhang, <strong>Zhi Li</strong>, Feng Xia, Shaojie Tang, Xingfa Shen, Bei Zhao.
-    conference_short: Journal
+    conference_short: COMJNL
     conference: "<em>The Computer Journal</em>, 58(6): 1267 - 1279, 2014."
     pdf: https://ieeexplore.ieee.org/document/8131358
     video: 
