@@ -1,0 +1,60 @@
+# Basic Information 
+title: "Zhi Li&nbsp;&nbsp;&nbsp;&nbsp;李&nbsp;志"
+title_simple: "Zhi Li"
+position: Ph.D. Candidate
+affiliation: Stony Brook University
+department: Department of Computer Science
+email: zhi.li.5 (at) stonybrook.edu
+
+# Search Engine Optimization (SEO)
+# The following information is used to improve the website traffic from search engines, e.g., Google.
+keywords: zhi li, li zhi, zhili, lizhi
+description: Zhi Li is a Ph.D. candidate in the Department of Computer Science at Stony Brook University.
+canonical: https://zhili42.com/
+
+# Links 
+# If you don't need one of them, you may delete the corresponding line.
+google_scholar: https://scholar.google.com/citations?user=5TwohboAAAAJ&hl=en
+cv_link: assets/files/curriculum_vitae.pdf
+github_link: https://github.com/zhili42
+linkedin: https://www.linkedin.com/in/zhi-li-9732b5b0/
+twitter: https://twitter.com/ZhiLi42
+
+# Images (e.g., your profile picture and your website's favicon) 
+# "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
+avatar: ./assets/img/avatar.png
+favicon: 
+favicon_dark: 
+
+# Footnote
+# You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
+enable_footnote: true
+
+# Auto Dark Mode
+# You may use the option to disable the automatic dark theme
+auto_dark_mode: false
+
+# Font
+# You can use this option to choose between Serif or Sans Serif fonts.
+font: "Serif" # or "Sans Serif"
+
+last_update: Oct 2023
+
+# Google Analytics ID
+# Please remove this if you don't use Google Analytics
+# google_analytics: UA-111540567-4
+
+# Use this project as a remote theme for GitHub Pages
+# See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
+# remote_theme: yaoyao-liu/minimal-light
+
+# The following files will be removed from the generated website.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - README_zh_Hans.md
+  - README_zh_Hant.md
+  - README_de.md
+  - LICENSE
+  - minimal-light.gemspec

@@ -1,0 +1,206 @@
+main:
+
+  - title: "Modeling Touch-based Menu Selection Performance of Blind Users via Reinforcement Learning"
+    authors: <strong>Zhi Li</strong>, Yu-Jung Ko, Aini Putkonen, Shirin Feiz, Vikas Ashok, IV Ramakrishnan, Antti Oulasvirta, Xiaojun Bi.
+    conference_short: CHI'23
+    conference: In <em>Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems</em> (<strong>CHI'23</strong>). Hamburg, Germany. Apr 23 - Apr 28, 2023. 1-18.
+    pdf: https://dl.acm.org/doi/10.1145/3544548.3580640
+    video: https://www.youtube.com/watch?v=oRv9daEQ6uI
+    code: 
+    page: 
+    bibtex: 
+    notes: 
+    image: 
+    tag: chi23
+
+  - title: "GlanceWriter: Writing Text by Glancing Over Letters with Gaze"
+    authors: Wenzhe Cui*, Rui Liu*, <strong>Zhi Li</strong>, Yifan Wang, Andrew Wang, Xia Zhao, Sina Rashidian, Furqan Baig, IV Ramakrishnan, Fusheng Wang, Xiaojun Bi.
+    conference_short: CHI'23
+    conference: In <em>Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems</em> (<strong>CHI'23</strong>). Hamburg, Germany. Apr 23 - Apr 28, 2023. 1-18.
+    pdf: https://dl.acm.org/doi/10.1145/3544548.3581269
+    video: https://www.youtube.com/watch?v=6ialUJPhrd0
+    code: 
+    page: 
+    bibtex: 
+    notes: (*Co-First authors ordered alphabetically.)
+    image: 
+
+  - title: "Using Deep Learning to Detect Motor Impairment in Early Parkinson’s Disease from Touchscreen Typing"
+    authors: Sophia Gu, Yan Ma, <strong>Zhi Li</strong>, Xiangmin Fan, Feng Tian, Xiaojun Bi.
+    conference_short: GI'22
+    conference: In <em>Proceedings of Graphics Interface 2022 </em> (<strong>GI'22</strong>). Montreal, Quebec, Canada. May 16 - May 19, 2022. 209-217.
+    pdf: https://openreview.net/forum?id=rSBM1WtVafc
+    video: 
+    code: 
+    page: 
+    bibtex: 
+    notes: 
+    image: 
+
+  - title: "Select or Suggest? Reinforcement Learning-based Method for High-Accuracy Target Selection on Touchscreens"
+    authors: <strong>Zhi Li</strong>, Maozheng Zhao, Dibyendu Das, Hang Zhao, Yan Ma, Wanyu Liu, Michel Beaudouin-Lafon, Fusheng Wang, IV Ramakrishnan Xiaojun Bi.
+    conference_short: CHI'22
+    conference: In <em>Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems</em> (<strong>CHI'22</strong>). New Orleans, LA, USA. Apr 29 - May 5, 2022. 1-15.
+    pdf: https://dl.acm.org/doi/abs/10.1145/3491102.3517472
+    video: https://www.youtube.com/watch?v=J8AaLn2SVOc
+    code: 
+    page: 
+    bibtex: 
+    notes: 
+    image: 
+
+  - title: "EyeSayCorrect: Eye Gaze and Voice Based Hands-free Text Correction for Mobile Devices"
+    authors: Maozheng Zhao, Henry Huang, <strong>Zhi Li</strong>, Rui Liu, Wenzhe Cui, Kajal Toshniwal, Ananya Goel, Andrew Wang, Xia Zhao, Sina Rashidian, Furqan Baig, Khiem Phi, Shumin Zhai, I.V. Ramakrishnan, Fusheng Wang, and Xiaojun Bi.
+    conference_short: IUI'22
+    conference: In <em>Proceedings of the 27th International Conference on Intelligent User Interfaces</em> (<strong>IUI'22</strong>). Online conference. Mar 21 - 25, 2022. 470-482.
+    pdf: https://dl.acm.org/doi/10.1145/3490099.3511103
+    video: https://www.youtube.com/watch?v=cSYQwaqchl0
+    code: 
+    page: 
+    bibtex: 
+    notes: 
+    image: 
+
+  - title: "BayesGaze: A Bayesian Approach to Eye-Gaze Based Target Selection"
+    authors: <strong>Zhi Li</strong>, Maozheng Zhao, Yifan Wang, Sina Rashidian, Furqan Baig, Rui Liu, Wanyu Liu, Michel Beaudouin-Lafon, Brooke Ellison, Fusheng Wang, IV Ramakrishnan, Xiaojun Bi.
+    conference_short: GI'21
+    conference: In <em>Proceedings of Graphics Interface 2021 </em>(<strong>GI'21</strong>). Online conference. May 27 - 28, 2021. 231-240.
+    pdf: https://openreview.net/forum?id=r6Z8apiZQt
+    video: https://www.youtube.com/watch?v=5lCVUvIYkNw
+    code: 
+    page: 
+    bibtex: 
+    notes: 
+    image: 
+
+  - title: "BackSwipe: Back-of-device Word-Gesture Interaction on Smartphones"
+    authors: Wenzhe Cui, Suwen Zhu, <strong>Zhi Li</strong>, Zheer Xu, Xing-Dong Yang, IV Ramakrishnan, Xiaojun Bi.
+    conference_short: CHI'21
+    conference: In <em>Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems</em> (<strong>CHI'21</strong>). Online conference. May 8 - 13, 2021. 1-12.
+    pdf: https://dl.acm.org/doi/10.1145/3411764.3445081
+    video: https://www.youtube.com/watch?v=oQQP5n7mu-U
+    code: 
+    page: 
+    bibtex: 
+    notes: 
+    image: 
+
+  - title: Charge-aware Duty Cycling Methods for Wireless Systems under Energy Harvesting Heterogeneity
+    authors: Jianhui Zhang, Siwen Zheng, Tianhao Zhang, Mengmeng Wang, <strong>Zhi Li</strong>.
+    conference_short: TOSN
+    conference: <em>ACM Transactions on Sensor Networks</em>, 16(2), 1 - 23. 2020.
+    pdf: https://dl.acm.org/doi/abs/10.1145/3372800
+    video: 
+    code: 
+    page: 
+    bibtex: 
+    notes: 
+    image: 
+
+  - title: Large-Scale Trip Planning for Bike-Sharing Systems
+    authors: <strong>Zhi Li</strong>, Jianhui Zhang, Jiayu Gan, Pengqian Lu, Zhigang Gao, Wanzeng Kong.
+    conference_short: PMC 
+    conference: "<em>Pervasive and Mobile Computing</em>, 54: 16 - 28, 2019."
+    pdf: https://www.sciencedirect.com/science/article/pii/S1574119218300129
+    video: 
+    code: 
+    page: 
+    bibtex: 
+    notes: 
+    image: 
+
+  - title: Asynchronous Neighbor Discovery with Unreliable Link in Wireless Mobile Networks
+    authors: Wei Li, Jianhui Zhang, Feilong Jiang, <strong>Zhi Li</strong>, Chong Xu.
+    conference_short: Journal
+    conference: "<em>Peer-to-Peer Networking and Applications</em>, 12(3): 635-646, 2018."
+    pdf: https://link.springer.com/article/10.1007%2Fs12083-018-0672-y
+    video: 
+    code: 
+    page: 
+    bibtex: 
+    notes: 
+    image: 
+
+  - title: Distributed Trip Selection Game for Public Bike System with Crowdsourcing
+    authors: Jianhui Zhang, Pengqian Lu, <strong>Zhi Li</strong>, Jiayu Gan.
+    conference_short: INFOCOM'18
+    conference: In <em>IEEE INFOCOM 2018 - IEEE Conference on Computer Communications</em> (<strong>INFOCOM'18</strong>). Honolulu, HI, USA. Apr 15 - 19, 2018. 2717-2725.
+    pdf: https://ieeexplore.ieee.org/document/8486277
+    video: 
+    code: 
+    page: 
+    bibtex: 
+    notes: 
+    image: 
+
+  - title: Large-Scale Trip Planning for Bike-Sharing Systems
+    authors: <strong>Zhi Li</strong>, Jianhui Zhang, Jiayu Gan, Pengqian Lu, Fei Lin.
+    conference_short: MASS'17
+    conference: In <em> IEEE 14th International Conference on Mobile Adhoc and Sensor Systems</em> (<strong>MASS’17</strong>), Orlando, FL, USA. Oct 22 - 25, 2017. 328-332.
+    pdf: https://ieeexplore.ieee.org/document/8108762
+    video: 
+    code: 
+    page: 
+    bibtex: 
+    notes: 
+    image: 
+
+  - title: Prediction Based Indoor Fire Escaping Routing with Wireless Sensor Network
+    authors: <strong>Zhi Li</strong>, Jianhui Zhang, Xingfa Shen, Jin Fan.
+    conference_short: PPNA
+    conference: "<em>Peer-to-Peer Networking and Applications</em>, 10(3): 697 - 707, 2017."
+    pdf: https://link.springer.com/article/10.1007/s12083-016-0520-x
+    video: 
+    code: 
+    page: 
+    bibtex: 
+    notes: 
+    image: 
+
+  - title: Composite Task Selection with Heterogeneous Crowdsourcing
+    authors: Jianhui Zhang, <strong>Zhi Li</strong>, Xiaojun Lin, Feilong Jiang.
+    conference_short: SECON'17
+    conference: In <em>14th Annual IEEE International Conference on Sensing, Communication, and Networking</em> (<strong>SECON'17</strong>), San Diego, CA, USA. Jun 12 - 14, 2017. 1-9.
+    pdf: https://ieeexplore.ieee.org/document/7964917
+    video: 
+    code: 
+    page: 
+    bibtex: 
+    notes: 
+    image: 
+
+  - title: Value of Information Aware Opportunistic Duty Cycling in Solar Harvesting Sensor Networks
+    authors: Jianhui Zhang, <strong>Zhi Li</strong>, Shaojie Tang.
+    conference_short: TII
+    conference: "<em>IEEE Transactions on Industrial Informatics</em>  (<strong>TII</strong>), 12(1): 348 - 360, 2016."
+    pdf: https://ieeexplore.ieee.org/document/7355337
+    video: 
+    code: 
+    page: 
+    bibtex: 
+    notes: 
+    image: 
+
+  - title: Stochastic Duty Cycling for Heterogenous Energy Harvesting Networks
+    authors: Jianhui Zhang, Mengmeng Wang, <strong>Zhi Li</strong>.
+    conference_short: IPCCC'15
+    conference: In <em>IEEE 34th International Performance Computing and Communications Conference</em> (<strong>IPCCC'15</strong>), Nanjing, China. Dec 14 - 16, 2015. 1-9.
+    pdf: https://ieeexplore.ieee.org/document/7410306
+    video: 
+    code: 
+    page: 
+    bibtex: 
+    notes: 
+    image: 
+
+  - title: Cooperative Scheduling for Adaptive Duty Cycling in Asynchronous Sensor Networks
+    authors: Jianhui Zhang, <strong>Zhi Li</strong>, Feng Xia, Shaojie Tang, Xingfa Shen, Bei Zhao.
+    conference_short: Journal
+    conference: "<em>The Computer Journal</em>, 58(6): 1267 - 1279, 2014."
+    pdf: https://ieeexplore.ieee.org/document/8131358
+    video: 
+    code: 
+    page: 
+    bibtex: 
+    notes: 
+    image: 
