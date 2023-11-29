@@ -4,19 +4,25 @@ layout: homepage
 
 <h2 id="short_bio">Short Bio</h2>
 
-I am a Ph.D. Candidate in Department of Computer Science at <a href="https://www.stonybrook.edu/" target="_blank">Stony Brook University</a> under the supervision of Prof. <a href="https://www3.cs.stonybrook.edu/~xiaojun/" target="_blank">Xiaojun Bi</a>. I received my M.E. degree in Computer Science in Mar 2017 under the supervision of Prof. <a href="http://jhzhang.cn/" target="_blank">Jianhui Zhang</a>, and B.E. degree in Computer Science in Jun 2014 both at <a href="http://www.hdu.edu.cn/" target="_blank">Hangzhou Dianzi University</a>.
+I am a Ph.D. Candidate in the Department of Computer Science at <a href="https://www.stonybrook.edu/" target="_blank">Stony Brook University</a> under the supervision of Prof. <a href="https://www3.cs.stonybrook.edu/~xiaojun/" target="_blank">Xiaojun Bi</a>.
+
+My research interests are in Human-Computer Interaction, with a focus on AI-driven input technologies (e.g. target selection, text input, text editing) and input modeling.
+
+Before moving to Stony Brook, I was in the <a href="http://jhzhang.cn/" target="_blank">IoT Group</a> at <a href="http://www.hdu.edu.cn/" target="_blank">Hangzhou Dianzi University</a> under the supervision of Prof. <a href="http://jhzhang.cn/" target="_blank">Jianhui Zhang</a>. I received my M.E. degree in Computer Science and B.E. degree in Computer Science both at Hangzhou Dianzi University in 2017 and 2014 respectively.
+
+During my spare time, I take photography as a hobby. Check my <a href="https://www.instagram.com/zhili.42/" target="_blank">Instagram</a> for photos. I love fishing. I can play some guitar and Dizi (bamboo flute). I also workout regularly.
 
 <div class="sec-sep"></div>
 
-<h2 id="research_interests">Research Interests</h2>
-
-- **Human-Computer Interaction:** Computational Interaction, Gaze-Based Interaction, Multi-Modal Interaction, Accessibility
-
 <div class="sec-sep"></div>
+
+{% include_relative _includes/research_works.md %}
 
 <h2 id="news">News</h2>
 
-- **[Jan. 2023]** [Two papers](#chi23) accepted to CHI 2023!
+- **[Jan. 2023]** [Two papers](#chi23modeling) accepted to CHI 2023!
+
+
 
 <div class="sec-sep"></div>
 
@@ -36,9 +42,5 @@ I am a Ph.D. Candidate in Department of Computer Science at <a href="https://www
 <div class="sec-sep"></div>
 
 {% include_relative _includes/teaching.md %}
-
-<div class="sec-sep"></div>
-
-{% include_relative _includes/personal.md %}
 
 <div class="sec-sep"></div>

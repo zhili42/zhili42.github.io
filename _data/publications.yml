@@ -11,7 +11,7 @@ main:
     bibtex: 
     notes: 
     image: 
-    tag: chi23
+    tag: chi23modeling
 
   - title: "GlanceWriter: Writing Text by Glancing Over Letters with Gaze"
     authors: Wenzhe Cui*, Rui Liu*, <strong>Zhi Li</strong>, Yifan Wang, Andrew Wang, Xia Zhao, Sina Rashidian, Furqan Baig, IV Ramakrishnan, Fusheng Wang, Xiaojun Bi.
@@ -24,6 +24,7 @@ main:
     bibtex: 
     notes: (*Co-First authors ordered alphabetically.)
     image: 
+    tag: chi23glance
 
   - title: "Using Deep Learning to Detect Motor Impairment in Early Parkinson’s Disease from Touchscreen Typing"
     authors: Sophia Gu, Yan Ma, <strong>Zhi Li</strong>, Xiangmin Fan, Feng Tian, Xiaojun Bi.
@@ -36,6 +37,7 @@ main:
     bibtex: 
     notes: 
     image: 
+    tag: gi22deep
 
   - title: "Select or Suggest? Reinforcement Learning-based Method for High-Accuracy Target Selection on Touchscreens"
     authors: <strong>Zhi Li</strong>, Maozheng Zhao, Dibyendu Das, Hang Zhao, Yan Ma, Wanyu Liu, Michel Beaudouin-Lafon, Fusheng Wang, IV Ramakrishnan Xiaojun Bi.
@@ -48,6 +50,7 @@ main:
     bibtex: 
     notes: 
     image: 
+    tag: chi22select
 
   - title: "EyeSayCorrect: Eye Gaze and Voice Based Hands-free Text Correction for Mobile Devices"
     authors: Maozheng Zhao, Henry Huang, <strong>Zhi Li</strong>, Rui Liu, Wenzhe Cui, Kajal Toshniwal, Ananya Goel, Andrew Wang, Xia Zhao, Sina Rashidian, Furqan Baig, Khiem Phi, Shumin Zhai, I.V. Ramakrishnan, Fusheng Wang, and Xiaojun Bi.
@@ -60,6 +63,7 @@ main:
     bibtex: 
     notes: 
     image: 
+    tag: iui22eyesaycorrect
 
   - title: "BayesGaze: A Bayesian Approach to Eye-Gaze Based Target Selection"
     authors: <strong>Zhi Li</strong>, Maozheng Zhao, Yifan Wang, Sina Rashidian, Furqan Baig, Rui Liu, Wanyu Liu, Michel Beaudouin-Lafon, Brooke Ellison, Fusheng Wang, IV Ramakrishnan, Xiaojun Bi.
@@ -72,6 +76,7 @@ main:
     bibtex: 
     notes: 
     image: 
+    tag: gi21bayesgaze
 
   - title: "BackSwipe: Back-of-device Word-Gesture Interaction on Smartphones"
     authors: Wenzhe Cui, Suwen Zhu, <strong>Zhi Li</strong>, Zheer Xu, Xing-Dong Yang, IV Ramakrishnan, Xiaojun Bi.
@@ -84,6 +89,7 @@ main:
     bibtex: 
     notes: 
     image: 
+    tag: chi21backswipe
 
   - title: Charge-aware Duty Cycling Methods for Wireless Systems under Energy Harvesting Heterogeneity
     authors: Jianhui Zhang, Siwen Zheng, Tianhao Zhang, Mengmeng Wang, <strong>Zhi Li</strong>.
