@@ -32,12 +32,11 @@ During my spare time, I take photography as a hobby. Check my <a href="https://w
 
 {% include_relative _includes/publications.md %}
 
-
-{% include_relative _includes/services.md %}
+{% include_relative _includes/honors.md %}
 
 <div class="sec-sep"></div>
 
-{% include_relative _includes/honors.md %}
+{% include_relative _includes/services.md %}
 
 <div class="sec-sep"></div>
 
