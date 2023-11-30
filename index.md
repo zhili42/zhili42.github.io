@@ -6,7 +6,7 @@ layout: homepage
 
 I am a Ph.D. Candidate in the Department of Computer Science at <a href="https://www.stonybrook.edu/" target="_blank">Stony Brook University</a> under the supervision of Prof. <a href="https://www3.cs.stonybrook.edu/~xiaojun/" target="_blank">Xiaojun Bi</a>.
 
-My research interests are in Human-Computer Interaction, with a focus on AI-powered input technologies and input modeling. I design interaction methods (e.g. target selection, text input, text editing) for a diverse range of devices (e.g. smartwatch, smartphone, tablet, VR headset), employing different input modalities (e.g. eye gaze, touch, voice).
+My research interests are in Human-Computer Interaction, with a focus on AI-driven input technologies and input modeling. I design interaction methods (e.g. target selection, text input, text editing) for a diverse range of devices (e.g. smartwatch, smartphone, tablet, VR headset), employing different input modalities (e.g. eye gaze, touch, voice).
 
 Before moving to Stony Brook, I was in the <a href="http://jhzhang.cn/" target="_blank">IoT Group</a> at <a href="http://www.hdu.edu.cn/" target="_blank">Hangzhou Dianzi University</a> under the supervision of Prof. <a href="http://jhzhang.cn/" target="_blank">Jianhui Zhang</a>. I received my M.E. degree in Computer Science and B.E. degree in Computer Science both at Hangzhou Dianzi University in 2017 and 2014 respectively.
 
