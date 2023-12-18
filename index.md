@@ -10,7 +10,7 @@ My research interests are in Human-Computer Interaction, with a focus on AI-driv
 
 Before moving to Stony Brook, I was in the <a href="http://jhzhang.cn/" target="_blank">IoT Group</a> at <a href="http://www.hdu.edu.cn/" target="_blank">Hangzhou Dianzi University</a> under the supervision of Prof. <a href="http://jhzhang.cn/" target="_blank">Jianhui Zhang</a>. I received my M.E. degree in Computer Science and B.E. degree in Computer Science both at Hangzhou Dianzi University in 2017 and 2014 respectively.
 
-During my spare time, I take photography as a hobby. Check my <a href="https://www.instagram.com/zhili.42/" target="_blank">Instagram</a> for photos. I love fishing. I can play some guitar and Dizi (bamboo flute). I also workout regularly.
+During my spare time, I take photography as a hobby. Check my <a href="https://www.instagram.com/zhili.42/" target="_blank">Instagram</a> for photos.
 
 <div class="sec-sep"></div>
 
