@@ -1,0 +1,8 @@
+main:
+
+  - company: Google 
+    company_logo: ./assets/img/google_logo.png
+    location: Mountain View, CA
+    time: Dec. 2023 - Present
+    title: Student Researcher
+    job: Keyboard layout design for Google Pixel smartwatch.

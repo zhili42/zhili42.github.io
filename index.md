@@ -36,6 +36,10 @@ During my spare time, I take photography as a hobby. Check my <a href="https://w
 
 <div class="sec-sep"></div>
 
+{% include_relative _includes/experience.md %}
+
+<div class="sec-sep"></div>
+
 {% include_relative _includes/services.md %}
 
 <div class="sec-sep"></div>

@@ -2,6 +2,10 @@
   display: flex; 
   align-items: start;}
 
+.exp-row {
+  display: flex; 
+  align-items: start;}
+
 .social-icons a{
   display:inline-block;
   height:2.4rem;
@@ -466,6 +470,10 @@ footer {
   display: flex; 
   align-items: start;}
 
+  .exp-row {
+    display: flex; 
+    align-items: start;}
+
   div.wrapper {
     width:auto;
     margin:0;
@@ -529,6 +537,10 @@ footer {
   display: flex; 
   align-items: start;}
 
+  .exp-row {
+    display: flex; 
+    align-items: start;}
+
   header {
     padding:0;
   }
@@ -545,6 +557,10 @@ footer {
 @media print, screen and (max-width: 480px) {
 
   .pub-row {
+    display: flex; 
+    align-items: start;}
+
+  .exp-row {
     display: flex; 
     align-items: start;}
 
