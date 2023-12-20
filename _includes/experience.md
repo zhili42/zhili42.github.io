@@ -13,7 +13,7 @@
         {% endif %}
     </div>
     <div class="col-sm-9" style="position: relative;padding-right: 0px;padding-left: 20px;">
-            <div><b>{{ exp.company }}</b>, <b>{{ exp.title }}</b>, {{ exp.location }}</div>
+            <div> <b>{{ exp.title }}</b>, <b>{{ exp.company }}</b>, {{ exp.location }}</div>
             <div>{{ exp.time }}</div>
             <div>{{ exp.job }}</div>
     </div>
