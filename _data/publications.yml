@@ -16,7 +16,7 @@ main:
   - title: "GlanceWriter: Writing Text by Glancing Over Letters with Gaze"
     authors: Wenzhe Cui*, Rui Liu*, <strong>Zhi Li</strong>, Yifan Wang, Andrew Wang, Xia Zhao, Sina Rashidian, Furqan Baig, IV Ramakrishnan, Fusheng Wang, Xiaojun Bi.
     conference_short: CHI'23
-    conference: In <em>Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems</em> (<strong>CHI'23</strong>). Hamburg, Germany. Apr 23 - Apr 28, 2023. 1-18.
+    conference: In <em>Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems</em> (<strong>CHI'23</strong>). Hamburg, Germany. Apr 23 - Apr 28, 2023. 1-13.
     pdf: https://dl.acm.org/doi/10.1145/3544548.3581269
     video: https://www.youtube.com/watch?v=6ialUJPhrd0
     code: 
