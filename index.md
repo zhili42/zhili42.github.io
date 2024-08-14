@@ -18,6 +18,7 @@ During my spare time, I take photography as a hobby. Check my <a href="https://w
 
 <h2 id="news">News</h2>
 
+- **[Aug. 2024]** [One paper](#uist24accessible) accepted to UIST 2024!
 - **[Dec. 2023]** Started an internship at Google!
 - **[Jan. 2023]** [Two papers](#chi23modeling) accepted to CHI 2023!
 

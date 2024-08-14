@@ -1,4 +1,17 @@
 main:
+  - title: "Accessible Gesture Typing on Smartphones for People with Low Vision"
+    authors: Dan Zhang, <strong>Zhi Li</strong>, Vikas Ashok, William H Seiple, IV Ramakrishnan, Xiaojun Bi.
+    conference_short: UIST'24
+    conference: In <em>Proceedings of the 37th Annual ACM Symposium on User Interface Software and Technology</em> (<strong>UIST'24</strong>). Pittsburgh, PA, USA. Oct 13 - Oct 16, 2024. 1-11.
+    pdf: # https://dl.acm.org/doi.org/10.1145/3654777.3676447
+    video:
+    code: 
+    page: 
+    bibtex: 
+    notes: 
+    image: 
+    tag: uist24accessible
+
 
   - title: "Modeling Touch-based Menu Selection Performance of Blind Users via Reinforcement Learning"
     authors: <strong>Zhi Li</strong>, Yu-Jung Ko, Aini Putkonen, Shirin Feiz, Vikas Ashok, IV Ramakrishnan, Antti Oulasvirta, Xiaojun Bi.
