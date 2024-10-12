@@ -17,9 +17,9 @@
     </div>
     <div class="col-sm-9" style="position: relative;padding-right: 0px;padding-left: 110px;">
         {% if link.tag %}
-            <div class="title" id="{{ link.tag }}"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
+            <div class="title" id="{{ link.tag }}"><a href="{{ link.pdf }}" target="_blank">{{ link.title }}</a></div>
         {% else %}
-            <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
+            <div class="title"><a href="{{ link.pdf }}" target="_blank">{{ link.title }}</a></div>
         {% endif %}
         <div class="author">{{ link.authors }}</div>
         <div class="periodical">{{ link.conference }}</div>
