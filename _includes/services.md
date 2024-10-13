@@ -3,7 +3,7 @@
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="https://chi2021.acm.org/"><autocolor>ACM CHI Conference on Human Factors in Computing Systems (CHI) 2021, 2025</autocolor></a></li>
+  <li><a href="https://chi2025.acm.org/"><autocolor>ACM CHI Conference on Human Factors in Computing Systems (CHI) 2021, 2025</autocolor></a></li>
   <li><a href="https://uist.acm.org/uist2022/"><autocolor>ACM Symposium on User Interface Software and Technology (UIST) 2021-2022</autocolor></a></li>
 </ul>
 <div style="margin-bottom:10px"> </div>
