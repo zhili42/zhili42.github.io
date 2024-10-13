@@ -12,8 +12,6 @@ Before moving to Stony Brook, I was in the <a href="http://jhzhang.cn/" target="
 
 <div class="sec-sep"></div>
 
-{% include_relative _includes/research_works.md %}
-
 <h2 id="news">News</h2>
 
 - **[Aug. 2024]** [One paper](#uist24accessible) accepted to UIST 2024!
