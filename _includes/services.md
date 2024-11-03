@@ -11,6 +11,7 @@
 
 <ul style="margin:0 0 20px;">
   <li><a href="https://www.sciencedirect.com/journal/international-journal-of-human-computer-studies"><autocolor>International Journal of Human-Computer Studies</autocolor></a></li>
+  <li><a href="https://www.tandfonline.com/journals/hihc20"><autocolor>International Journal of Human-Computer Interaction</autocolor></a></li>
   <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424"><autocolor>IEEE Transactions on Industrial Informatics</autocolor></a></li>
   <li><a href="https://www.sciencedirect.com/journal/theoretical-computer-science"><autocolor>Theoretical Computer Science</autocolor></a></li>
   <li><a href="https://www.sciencedirect.com/journal/computer-networks"><autocolor>Computer Networks</autocolor></a></li>
